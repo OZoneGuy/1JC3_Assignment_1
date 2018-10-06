@@ -1,0 +1,13 @@
+Configuring psqueues-0.2.3.0...
+Building psqueues-0.2.3.0...
+Preprocessing library psqueues-0.2.3.0...
+[1 of 7] Compiling Data.OrdPSQ.Internal ( src\Data\OrdPSQ\Internal.hs, .stack-work\dist\ca59d0ab\build\Data\OrdPSQ\Internal.o )
+[2 of 7] Compiling Data.OrdPSQ      ( src\Data\OrdPSQ.hs, .stack-work\dist\ca59d0ab\build\Data\OrdPSQ.o )
+[3 of 7] Compiling Data.BitUtil     ( src\Data\BitUtil.hs, .stack-work\dist\ca59d0ab\build\Data\BitUtil.o )
+[4 of 7] Compiling Data.IntPSQ.Internal ( src\Data\IntPSQ\Internal.hs, .stack-work\dist\ca59d0ab\build\Data\IntPSQ\Internal.o )
+[5 of 7] Compiling Data.HashPSQ.Internal ( src\Data\HashPSQ\Internal.hs, .stack-work\dist\ca59d0ab\build\Data\HashPSQ\Internal.o )
+[6 of 7] Compiling Data.HashPSQ     ( src\Data\HashPSQ.hs, .stack-work\dist\ca59d0ab\build\Data\HashPSQ.o )
+[7 of 7] Compiling Data.IntPSQ      ( src\Data\IntPSQ.hs, .stack-work\dist\ca59d0ab\build\Data\IntPSQ.o )
+Installing library in
+C:\sr\snapshots\56703eca\lib\x86_64-windows-ghc-8.0.2\psqueues-0.2.3.0-13RR0saqlyC8xR0YbRzts0
+Registering psqueues-0.2.3.0...

@@ -1,0 +1,14 @@
+Configuring strict-0.3.2...
+Building strict-0.3.2...
+Preprocessing library strict-0.3.2...
+
+Data\Strict\Tuple.hs:17:16: warning:
+    -fglasgow-exts is deprecated: Use individual extensions instead
+[1 of 5] Compiling System.IO.Strict ( System\IO\Strict.hs, .stack-work\dist\ca59d0ab\build\System\IO\Strict.o )
+[2 of 5] Compiling Data.Strict.Tuple ( Data\Strict\Tuple.hs, .stack-work\dist\ca59d0ab\build\Data\Strict\Tuple.o )
+[3 of 5] Compiling Data.Strict.Maybe ( Data\Strict\Maybe.hs, .stack-work\dist\ca59d0ab\build\Data\Strict\Maybe.o )
+[4 of 5] Compiling Data.Strict.Either ( Data\Strict\Either.hs, .stack-work\dist\ca59d0ab\build\Data\Strict\Either.o )
+[5 of 5] Compiling Data.Strict      ( Data\Strict.hs, .stack-work\dist\ca59d0ab\build\Data\Strict.o )
+Installing library in
+C:\sr\snapshots\56703eca\lib\x86_64-windows-ghc-8.0.2\strict-0.3.2-IfIKu6GgwJkHDDJQA4k3FZ
+Registering strict-0.3.2...
